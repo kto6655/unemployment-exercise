@@ -1,0 +1,13 @@
+ # this is the "requirements.txt" file that we are creating
+ # this enables us to install multiple packages at once
+ # list the name of each package that needs to be installed per line
+
+
+ requests
+ plotly
+ python-dotenv
+ pandas
+
+ 
+
+ 
