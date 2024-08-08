@@ -7,7 +7,8 @@
  plotly
  python-dotenv
  pandas
-
+ pytest
+ 
  
 
  
