@@ -41,14 +41,16 @@ ALPHAVANTAGE_API_KEY="_______________"
 
 ## Usage
 
-Run the script:
+Run the Unemployment Report:
 
 ```sh
-python app/unemployment.py
 
-# equivalent:
-# (we'll need this alternative command once we start importing code from one python file to another)
 python -m app.unemployment
 ```
 
-# Uploading progress to GitHub by "Committing" and "Pushing to Origin" 
+Run the Stocks Report:
+
+```sh
+
+python -m app.stocks
+```
